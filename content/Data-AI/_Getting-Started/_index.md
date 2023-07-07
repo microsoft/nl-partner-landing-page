@@ -16,7 +16,7 @@ featured: true
 ---
 
 {{% notice style="warning" title="Make this your own" icon="bomb" %}}
-Test env. 
+Test env.
 
 Have Fun!
 {{% /notice %}}
