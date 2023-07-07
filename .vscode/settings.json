@@ -1,0 +1,43 @@
+{
+
+    "todo-tree.general.tags": [
+        "BUG",
+        "HACK",
+        "FIXME",
+        "TODO",
+        "XXX",
+        "[ ]",
+        "[x]",
+        "draft: true"
+    ],
+    "todo-tree.highlights.customHighlight": {
+        "TODO": {
+            "icon": "check",
+            "type": "line",
+            "gutterIcon": true
+        },
+        "FIXME": {
+            "icon": "alert",
+            "foreground": "orange",
+            "iconColour": "yellow",
+            "gutterIcon": true
+        },
+        "draft: true": {
+            "icon": "alert",
+            "foreground": "red",
+            "iconColour": "red",
+            "gutterIcon": true
+        }
+        ,
+        "draft: false": {
+            "icon": "check",
+            "foreground": "green",
+            "iconColour": "green",
+            "gutterIcon": true
+        }
+    },
+    "workbench.editor.highlightModifiedTabs": true
+
+
+
+}

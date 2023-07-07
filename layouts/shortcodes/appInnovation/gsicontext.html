@@ -1,0 +1,11 @@
+{{- $_hugo_config := `{ "version": 1 }` }}
+{{- $Page := . }}
+{{- partial "shortcodes/notice.html" (dict
+  "context" .
+  "content" (printf "%s%s%s" "On this page, we discuss Application Innovation journeys for "  $.Page.Params.title ". If you are new to partner journeys or just want/need more context, then please take a look at the <a href=/appinnovation/_getting-started/><b>Getting Started</b></a> page first." )
+  
+     
+  "icon"    ("university")
+  "style"   ("info")
+  "title"   ("Context"	)
+) }}

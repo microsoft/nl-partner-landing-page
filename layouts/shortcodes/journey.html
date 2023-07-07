@@ -1,0 +1,22 @@
+{{- if .Page.Pages }}
+<div class="timeline">
+    <div class="outer">
+        {{- range $journey_step := .Page.Pages }}
+        {{- $hidden := $journey_step.Params.hidden}}
+        {{- if not $hidden }}
+      <div class="card">
+            {{- if $journey_step.Params.caption }}
+            <figure class="card_image">
+                <img alt="{{ $journey_step.Params.menutitle }} avatar" src="{{ $journey_step.Params.caption | relURL }}" height="90" width="90">
+            </figure>
+            {{- end }}      
+        <div class="info">
+          <h3 class="title"><a href="{{ .RelPermalink }}">{{ $journey_step.Params.menutitle }}</a></h3>
+            {{  $journey_step.Summary }} 
+        </div>
+      </div>
+      {{- end }}
+      {{- end }}
+    </div>
+  </div>
+  {{- end }}

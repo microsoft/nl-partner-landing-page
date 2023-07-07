@@ -1,0 +1,407 @@
+/* here in this showcase we use our own modified chroma syntax highlightning style;
+   if you want to use a predefined style instead:
+   - remove `markup.highlight.noClasses` from your config.toml
+   - set `markup.highlight.style` to a predefined style name in your config.toml
+   - remove the following `@import` of the self-defined chroma stylesheet */
+@import "chroma-relearn-light.css";
+
+:root {
+    --PRIMARY-color: #243a5e; /* brand primary color */
+    --SECONDARY-color: #243a5e; /* brand secondary color */
+
+    --MAIN-TEXT-color: #2b2b2b; /* text color of content and h1 titles */
+    --MAIN-LINK-HOVER-color: #243a5e; /* hoverd link color of content */
+    --MAIN-BG-color: #ffffff; /* background color of content */
+    --MAIN-TITLES-TEXT-color: #243a5e; /* text color of h2-h6 titles and transparent box titles */
+
+    /* adjusted to relearn-dark chroma style */
+    --CODE-BLOCK-color: #2b2b2b; /* fallback text color of block code; should be adjusted to your selected chroma style */
+    --CODE-BLOCK-BG-color: #f8f8f8; /* fallback background color of block code; should be adjusted to your selected chroma style */
+
+    --CODE-INLINE-color: #2b2b2b; /* text color of inline code */
+    --CODE-INLINE-BG-color: #f8f8f8; /* background color of inline code */
+    --CODE-INLINE-BORDER-color: #f8f8f8; /* border color of inline code */
+
+    --MERMAID-theme: dark; /* name of the default Mermaid theme for this variant, can be overridden in config.toml */
+    --SWAGGER-theme: dark; /* name of the default Swagger theme for this variant, can be overridden in config.toml */
+
+    --MENU-HOME-LINK-color: #50e6ff; /* home button color if configured */
+    --MENU-HOME-LINK-HOVER-color: #e0e0e0; /* hoverd home button color if configured */
+
+    --MENU-SEARCH-color: #50e6ff; /* text and icon color of search box */
+    --MENU-SEARCH-BG-color: #243a5e; /* background color of search box */
+    --MENU-SEARCH-BORDER-color: #50e6ff; /* border color of search box */
+
+    --MENU-SECTIONS-BG-color: #243a5e; /* background of the menu; this is NOT just a color value but can be a complete CSS background definition including gradients, etc. */
+    --MENU-SECTIONS-LINK-color: #ffffff; /* link color of menu topics */
+    --MENU-SECTIONS-LINK-HOVER-color: #50e6ff; /* hoverd link color of menu topics */
+    --MENU-SECTIONS-ACTIVE-BG-color: #243a5e; /* background color of the active menu section */
+    --MENU-SECTION-ACTIVE-CATEGORY-color: #243a5e; /* text color of the displayed menu topic */
+    --MENU-SECTION-HR-color: #606060; /* separator color of menu footer */
+
+    --MENU-VISITED-color: #486ac9; /* icon color of visited menu topics if configured */
+
+    --BOX-CAPTION-color: rgba( 240, 240, 240, 1 ); /* text color of colored box titles */
+    --BOX-BG-color: #e0e0e0; /* background color of colored boxes */
+    --BOX-TEXT-color: #202020; /* text color of colored box content */
+
+    --TAG-BG-color: #243a5e;
+/*for accessibility*/
+    --BOX-TIP-color: #1b7a0f ;
+    --BOX-INFO-color: #2a69ce;
+    --BOX-NOTE-color: #915d00 ;
+
+
+
+}
+
+
+#sidebar {
+    font-size:13px;
+    padding:3px;
+}
+
+#sidebar #footer #legal {
+    font-size:11px;
+    padding:3px;
+}
+
+#body .flex-block-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    /* min-width: calc( 1300px - 300px - 2 * 3.25rem );
+    width: calc( 100% - 250px - 2 * 1.25rem );
+    max-width: calc( 100% - 250px - 2 * 1.25rem ); */
+}
+
+#sidebar ul.topics > li > label, #sidebar ul.topics > li > a {
+    font-size: 1rem;
+    line-height: 2rem;
+}
+
+#sidebar ul.collapsible-menu input.toggle {
+    -webkit-appearance: none;
+    appearance: none;
+    cursor: pointer;
+    height: 1.6rem;
+    left: 1rem;
+    padding-top: .35rem;
+    position: absolute;
+    width: 1px;
+}
+
+/* body {
+    
+    font-size: 13px;
+    } */
+
+    /* Author Box */
+.authorbox {
+	 padding: 10px 0;
+	margin-bottom: 25 px;
+	line-height: 1.5;
+	/* border-top: 1px solid #ebebeb; */
+	/* border-bottom: 1px solid #ebebeb; */
+}
+
+.authorbox__avatar {
+	float: left;
+	padding: 3px;
+	margin: 0 25px 0 0;
+	/* border: 3px solid #2a2a2a; */
+	border-radius: 250px;
+}
+
+.authorbox__avatar img {
+	border-radius: 100%;
+    height: 80px;
+    width: 80px;
+}
+
+.authorbox__header {
+	margin-bottom: 10px;
+}
+
+.authorbox__name {
+	/* font-size: 16px;
+	font-size: 1rem;*/
+	font-weight: 700; 
+}
+
+.authors {
+    margin-bottom: 20px;
+}
+
+
+
+/* Timeline */
+
+
+
+/* Timeline Container */
+.timeline {
+    background: var(--primary-color);
+    margin: 20px auto;
+    padding: 20px;
+  }
+  
+  /* Card container */
+  .timeline .outer .card {
+    position: relative;
+    max-width: 800px;
+    
+  }
+  
+  /* setting padding based on even or odd */
+  .timeline .outer .card:nth-child(odd) {
+    padding: 30px 0 30px 30px;
+  }
+  .timeline .outer .card:nth-child(even) {
+    padding: 30px 30px 30px 0;
+  }
+
+  .card_image {
+	padding: 3px;
+	margin: 0 25px 0 0;
+	/* border: 3px solid #2a2a2a; */
+	border-radius: 250px;
+}
+
+.card_image img {
+	border-radius: 100%;
+    height: 100px;
+    width: 100px;
+    vertical-align: -webkit-baseline-middle;
+}
+
+.timeline .outer .card:nth-child(odd) .card_image {
+    float: left;
+  }
+
+  .timeline .outer .card:nth-child(even) .card_image {
+    float: right;
+  }
+
+
+
+  /* Global ::before */
+  .timeline .outer  .card::before {
+    content: "";
+    position: absolute;
+    width: 50%;
+    border: solid var(--PRIMARY-color) ;
+    
+
+  }
+  
+  /* Setting the border of top, bottom, left */
+  .timeline .outer .card:nth-child(odd)::before {
+    left: 0px;
+    top: -5px;
+    bottom: -5px;
+    border-width: 5px 0 5px 5px;
+    border-radius: 50px 0 0 50px;
+    
+  }
+  
+  /* Setting the border of top, bottom, right */
+  .timeline .outer .card:nth-child(even)::before {
+    right: 0;
+    top: 0;
+    bottom: 0;
+    border-width: 5px 5px 5px 0;
+    border-radius: 0 50px 50px 0;
+  }
+  
+  /* Removing the border if it is the first card */
+  .timeline .outer  .card:first-child::before {
+    border-top: 0;
+    border-top-left-radius: 0;
+  }
+  
+  /* Removing the border if it is the last card  and it's odd */
+  .timeline .outer .card:last-child:nth-child(odd)::before {
+    border-bottom: 0;
+    border-bottom-left-radius: 0;
+  }
+  
+  /* Removing the border if it is the last card  and it's even */
+  .timeline .outer .card:last-child:nth-child(even)::before {
+    border-bottom: 0;
+    border-bottom-right-radius: 0;
+  }
+
+
+
+  
+  /* Information about the timeline */
+  .card .info {
+    display: flex;
+    flex-direction: column;
+    background: var(--MAIN-BG-color);
+    color: gray;
+    border-radius: 10px;
+    border-color: solid var(--PRIMARY-color) ;
+    padding: 10px;
+  }
+  
+  /* Title of the card */
+  .card .info .title {
+    color: var(--MAIN-TITLES-TEXT-color);
+    position: relative;
+    margin: 0 0 10px 0;
+  }
+  
+
+  
+  /* text right if the card is even  */
+  .timeline .outer .card:nth-child(even) > .info > .title {
+    text-align: right;
+  }
+  
+  /* setting dot to the left if the card is odd */
+  .timeline .outer .card:nth-child(odd) > .info > .title::before {
+    left: -45px;
+  }
+  
+  /* setting dot to the right if the card is odd */
+  .timeline .outer .card:nth-child(even) > .info > .title::before {
+    right: -45px;
+  }
+  
+
+/* Landing  */
+
+.container,
+.container-sm {
+	width: 100%;
+	margin: 0 auto;
+	/* padding-left: 16px;
+	padding-right: 16px; */
+}
+@media (min-width: 481px) {
+	.container,
+	.container-sm {
+		/* padding-left: 24px;
+		padding-right: 24px; */
+	}
+}
+.container {
+	max-width: 1128px;
+}
+.container-sm {
+	max-width: 848px;
+}
+.container .container-sm {
+	max-width: 800px;
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.features-wrap {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+	margin-right: -32px;
+	margin-left: -32px;
+}
+.features-wrap:first-of-type {
+	margin-top: -16px;
+}
+.features-wrap:last-of-type {
+	margin-bottom: -16px;
+}
+
+
+.feature {
+	/* padding: 16px 32px; */
+	width: 280px;
+	max-width: 280px;
+	flex-grow: 1;
+
+}
+.feature-inner {
+	height: 100%;
+}
+.feature-icon {
+	display: flex;
+	justify-content: center;
+  margin-bottom: 0;
+}
+.feature-icon img {
+  width: 128px;
+  height: 128px;
+}
+@media (min-width: 641px) {
+	.features-wrap:first-of-type {
+		margin-top: -24px;
+	}
+	.features-wrap:last-of-type {
+		margin-bottom: -24px;
+	}
+	/* .feature {
+		padding: 32px 32px;
+	} */
+}
+
+.body-wrap {
+
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+	padding-bottom: 40px;
+}
+
+
+.boxed-container {
+	max-width: 1440px;
+	margin: 0 auto;
+	box-shadow: 0 24px 48px rgba(21, 24, 29, 0.24);
+	mix-blend-mode: multiply;
+	mix-blend-mode: normal;
+}
+
+
+
+.feature-inner {
+  text-align: center;
+}
+
+
+#featurelink:hover {
+  text-decoration: none;
+}
+
+h2, h3, h4, h5, h6 {
+  padding-inline-end: 0rem;
+}
+
+
+
+/* Table of Contents partial */
+
+.toc #TableOfContents {
+  --ps-rail-hover-color: rgba( 176, 176, 176, .25 );
+  font-size: 1rem !important;
+  max-height: 90vh;
+  overflow: hidden;
+  padding: 0 0 !important ;
+  position: relative;
+}
+
+.toc #TableOfContents ul {
+  list-style: none;
+}
+
+.toc {
+  background: var(--MAIN-BG-color);
+  border-radius: 15px;
+  box-shadow: 0 0 0 3px rgba( 0, 0, 0, .1 );
+  color: var(--MAIN-TITLES-TEXT-color);
+  display: block;
+  font-size: 1rem;
+  margin: 0;
+  padding-left: 1rem;
+  position: relative;
+  width: 100%;
+}

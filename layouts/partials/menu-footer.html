@@ -1,0 +1,19 @@
+{{ partial "authorbox.html" . }}
+
+<div style="text-align: center;">
+    <b>Link to this site: <a href="https://aka.ms/beluxpartnertech" >aka.ms/beluxpartnertech</a></b> 
+</div>
+<br />
+<div id="legal" style="text-align: center;">
+ All rights reserved. This document is provided "as-is". Information and views expressed in this document, including URL and other Internet Web site references, may change without notice. You bear the risk of using it.<br /> 
+This initiative is in preview towards Microsoft (BeLux) Partners. Please read more <a href="/">here</a> 
+
+    <br /> <a href="https://support.microsoft.com/contactus">Contact Us</a> | <a href="https://go.microsoft.com/fwlink/?LinkId=521839">Privacy & Cookies</a> | <a href="https://go.microsoft.com/fwlink/?LinkID=246338">Terms of Use</a>
+    <br />© {{ now.Format "2006"  }} Microsoft
+
+</div>
+{{- if .Params.shortlink }}
+<br/>
+Reference this page directly: 
+<a href="https://{{.Params.shortlink}}"><b>{{.Params.shortlink}}</b></a>
+{{- end }}

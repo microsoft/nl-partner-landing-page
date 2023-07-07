@@ -1,0 +1,24 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+    "ghcr.io/devcontainers/features/hugo:1": {}, 
+    "ghcr.io/devcontainers/features/node:1": {}
+    
+},
+"customizations": {
+	"vscode": {
+		"extensions": [
+			"eliostruyf.vscode-front-matter",
+			"streetsidesoftware.code-spell-checker",
+			"blackmist.LinkCheckMD",
+			"yzhang.markdown-all-in-one",
+			"esbenp.prettier-vscode",
+			"Gruntfuggly.todo-tree",
+			"GitHub.copilot",
+			"eamodio.gitlens",
+			"bierner.markdown-mermaid"
+		]
+	}
+},"postCreateCommand": "git submodule update --init",
+  
+}

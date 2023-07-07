@@ -1,0 +1,43 @@
+{{- $pathsParam := .Get "paths" -}}
+{{- $pages := slice -}}
+{{- if $pathsParam }}
+    {{- $paths := split $pathsParam "," -}}
+    {{- range $paths }}
+        {{- $trimmedPath := trim . " " -}}
+        {{- if $trimmedPath }}
+            {{- $page := $.Site.GetPage $trimmedPath -}}
+            {{- if $page }}
+                {{- $pages = $pages | append $page -}}
+            {{- end }}
+        {{- end }}
+    {{- end }}
+{{- else }}
+    {{- $pages = .Page.Pages -}}
+{{- end }}
+{{- if $pages }}
+<section class="is-boxed has-animations body-wrap features section">
+    <div class="container">
+        <div class="features-inner  section-inner">
+            <div class="features-wrap">
+            {{- range $page := $pages }}
+            {{- $hidden := $page.Params.hidden}}
+            {{- $featured := $page.Params.featured}}
+            {{- if and (not $hidden) $featured }}
+                <div class="feature text-center is-revealing">
+                    <div class="feature-inner">
+                        {{- if $page.Params.caption }}
+                        <div class="feature-icon">
+                            <img src="{{ $page.Params.caption | relURL }}" alt="{{ $page.Params.title }}">
+                        </div>
+                        {{- end }}
+                        <h4 class="feature-title mt-16"><a href="{{ $page.RelPermalink }}">{{ $page.Params.title }}</a></h4>
+                        <p class="text-sm mb-0">{{ $page.Summary }}</p>
+                    </div>
+                </div>
+            {{- end }}
+            {{- end }}
+        </div>
+        </div>
+    </div>
+</section>
+{{- end }}

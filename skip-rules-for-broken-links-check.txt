@@ -1,0 +1,6 @@
+# Lines starting with a hash are comments.
+# Documentation on: https://github.com/filiph/linkcheck#skipping-urls
+
+# admin/
+\ie.css
+# \#info

@@ -23,3 +23,5 @@ Credits to the Belgium subsidiary for this idea!
 The original website customized for BeLux partners can be seen here:
 
 👉 https://microsoft.github.io/BeLuxPartnerTechTeam/index.html
+
+[take a look at the readme from the Belux team, it contains quite a few tips to get started](readme-beluxteam.md)

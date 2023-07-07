@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "eliostruyf.vscode-front-matter",
+        "streetsidesoftware.code-spell-checker",
+        "blackmist.linkcheckmd",
+        "yzhang.markdown-all-in-one",
+        "esbenp.prettier-vscode",
+        "gruntfuggly.todo-tree",
+        "github.copilot",
+        "eamodio.gitlens",
+        "bierner.markdown-mermaid"
+    ]
+}
