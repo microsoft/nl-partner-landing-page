@@ -38,17 +38,17 @@ uglyurls = false
 # English is the default language
 defaultContentLanguage = "en"
 
+# Here we enumerate all languages that will be used within the website
 [languages]
 [languages.en]
-title = "Hugo Relearn Theme"
+title = "Microsoft Partner Tech Hub"
 weight = 1
 languageName = "English"
 
 [languages.nl]
-title = "Dutch Language"
+title = "Microsoft Partner Tech Hub (Dutch)"
 weight = 2
 languageName = "Dutch"
-
 
 [markup]
 defaultMarkdownHandler = 'goldmark'
