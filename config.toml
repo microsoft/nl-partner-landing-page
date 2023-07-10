@@ -1,13 +1,13 @@
 baseURL = 'https://microsoft.github.io/nl-partner-landing-page/'
 canonifyURLs=true
 languageCode = 'en-us'
-title = 'Microsoft NL Partner Techteam hub'
+title = 'Microsoft NL Partner Tech Hub'
 enableEmoji = true
 # Change the default theme to be use when building the site with Hugo
 theme = "relearn"
 uglyurls = false
 # settings specific to this theme's features; choose to your likings and
-# consult this documentation for explaination
+# consult this documentation for explanation
 [params]
 #  editURL = "https://github.com/McShelby/hugo-theme-relearn/edit/main/exampleSite/content/"
 #  description = "Documentation for Hugo Relearn Theme"
@@ -35,6 +35,19 @@ uglyurls = false
   section = ["HTML", "RSS"]
   page = ["HTML", "RSS"]
 
+# English is the default language
+defaultContentLanguage = "en"
+
+[languages]
+[languages.en]
+title = "Hugo Relearn Theme"
+weight = 1
+languageName = "English"
+
+[languages.nl]
+title = "Dutch Language"
+weight = 2
+languageName = "Dutch"
 
 
 [markup]
