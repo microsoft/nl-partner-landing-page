@@ -39,8 +39,9 @@ Unlock the potential of cloud analytics. Explore advanced techniques for process
 **Step 5: Go-to-Market**
 Take your Data and AI solutions to the market successfully. Learn strategies to effectively position, market, and monetize your offerings. Explore ways to drive adoption and maximize the value for your customers.
 
-{{% notice style="tip" title="Note:" %}}
+{{% notice style="tip" title="Note" %}}
 Please note this website is still in **preview phase**. While we are making continuous efforts to provide comprehensive information and resources, we acknowledge that certain areas may still be a work in progress.
 We greatly value your feedback and encourage you to reach out to one of our dedicated team members should you have any uncertainties or require further clarification.
 {{% /notice %}}
- {{% landing %}}
+
+{{% landing %}}
