@@ -4,8 +4,8 @@ menutitle: Cloud Scale Analytics
 weight: 03
 chapter: false
 author:
-  - timschaeps
-date: 2022-09-28
+  - fcortella
+date: 2023-07-11
 draft: false
 alwaysopen: false
 featured: true
