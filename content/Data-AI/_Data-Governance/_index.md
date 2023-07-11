@@ -2,8 +2,8 @@
 title: Data Governance
 menutitle: Data Governance
 date: 2022-08-15T15:07:44+02:00
-author:
-    - fcortella
+author: 
+  - fcortella
 weight: 01
 draft: false
 chapter: false

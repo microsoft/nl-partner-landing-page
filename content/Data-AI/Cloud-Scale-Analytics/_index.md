@@ -1,10 +1,10 @@
 ---
 title: Power Business Decisions with Cloud Scale Analytics
 menutitle: Cloud Scale Analytics
+author: 
+  - fcortella
 weight: 03
 chapter: false
-author:
-  - fcortella
 date: 2023-07-11
 draft: false
 alwaysopen: false

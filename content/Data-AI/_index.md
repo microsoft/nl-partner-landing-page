@@ -9,7 +9,6 @@ draft: false
 chapter: false
 alwaysopen: false
 lastmod: 2022-09-16T12:04:08.394Z
-shortlink: https://psychic-adventure-59g13ve.pages.github.io/data-ai/index.html
 summary: " "
 caption: /images/solutionareas/DataAndAI.png
 featured: true
