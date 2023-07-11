@@ -3,13 +3,13 @@ title: Data & AI
 menutitle: Data & AI (Azure)
 date: 2022-08-15T15:07:44+02:00
 author: 
-  - timschaeps
+  - fcortella
 weight: 04
 draft: false
 chapter: false
 alwaysopen: false
 lastmod: 2022-09-16T12:04:08.394Z
-shortlink: aka.ms/beluxpartnertech/data-ai
+shortlink: https://psychic-adventure-59g13ve.pages.github.io/data-ai/index.html
 summary: " "
 caption: /images/solutionareas/DataAndAI.png
 featured: true
