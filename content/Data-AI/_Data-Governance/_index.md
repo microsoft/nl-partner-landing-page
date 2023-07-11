@@ -15,5 +15,6 @@ featured: true
 ---
 
 {{% notice style="warning" title="Make this your own" icon="bomb" %}}
-Test env data governance
+Test env data governance.
+Will be populated with Purview content.
 {{% /notice %}}
