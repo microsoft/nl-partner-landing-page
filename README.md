@@ -1,6 +1,6 @@
 # Microsoft Partner Tech Hub Netherlands
 
-This repository will be used for the development and maintenance of the landing page for Microsoft partners in The Netherlands. 
+This repository will be used for the development and maintenance of the landing page for Microsoft partners in The Netherlands.
 
 The main goal is to _centralize_ all relevant information for partners, such as:
 
@@ -37,7 +37,7 @@ Answer 3
 
 ## Acknowledgements
 
-Credits to the Belgium subsidiary for this idea! 
+Credits to the Belgium subsidiary for this idea!
 And many thanks to [@Tim Schaeps](https://www.github.com/timschps) for helping us get started.🤲
 
 The original website customized for BeLux partners can be seen here:
