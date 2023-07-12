@@ -1,6 +1,6 @@
 ---
-title: Partner success stories
-menutitle: Partner success stories
+title: Partner Center Resources
+menutitle: Partner Center Resources
 author: 
   - fcortella
 weight: 03
@@ -9,8 +9,8 @@ date: 2023-07-11
 draft: false
 alwaysopen: false
 featured: true
-summary: "Partner success stories"
+summary: "Resources from partner center"
 ---
 {{% notice style="warning" title="Make this your own" icon="bomb" %}}
-Here we will feature our partners - what have they achieved with our solutions?
+Here we will include relevant links/resources from the partner center
 {{% /notice %}}

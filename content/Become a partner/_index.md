@@ -1,6 +1,6 @@
 ---
-title: Data & AI
-menutitle: Data & AI (Azure)
+title: Become a partner
+menutitle: Become a partner
 date: 2022-08-15T15:07:44+02:00
 author: 
   - fcortella
@@ -8,13 +8,9 @@ weight: 04
 draft: false
 chapter: false
 alwaysopen: false
-lastmod: 2022-09-16T12:04:08.394Z
-summary: " "
-caption: /images/solutionareas/DataAndAI.png
-featured: true
 ---
 
 {{% notice style="warning" title="Make this your own" icon="bomb" %}}
-Here we will add information about data & ai
+Here we will add information about becoming a partner
 {{% /notice %}}
 {{% landing %}}

@@ -1,6 +1,6 @@
 ---
-title: Partner success stories
-menutitle: Partner success stories
+title: Register as a partner
+menutitle: Registration process
 author: 
   - fcortella
 weight: 03
@@ -9,8 +9,8 @@ date: 2023-07-11
 draft: false
 alwaysopen: false
 featured: true
-summary: "Partner success stories"
+summary: "Registration information"
 ---
 {{% notice style="warning" title="Make this your own" icon="bomb" %}}
-Here we will feature our partners - what have they achieved with our solutions?
+Here we will include relevant information about registering as a partner
 {{% /notice %}}
