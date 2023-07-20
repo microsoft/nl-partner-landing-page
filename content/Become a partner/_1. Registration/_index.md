@@ -2,7 +2,7 @@
 title: Register as a partner
 menutitle: Registration process
 author: 
-  - fcortella
+  - daphne
 weight: 03
 chapter: false
 date: 2023-07-11

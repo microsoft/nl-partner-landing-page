@@ -2,7 +2,7 @@
 title: Partner Center Resources
 menutitle: Partner Center Resources
 author: 
-  - fcortella
+  - daphne
 weight: 03
 chapter: false
 date: 2023-07-11

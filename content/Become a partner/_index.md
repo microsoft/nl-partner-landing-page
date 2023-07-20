@@ -3,7 +3,7 @@ title: Become a partner
 menutitle: Become a partner
 date: 2022-08-15T15:07:44+02:00
 author: 
-  - fcortella
+  - daphne
 weight: 04
 draft: false
 chapter: false
