@@ -2,7 +2,7 @@
 title: Sales Enablement
 menutitle: Sales Enablement
 author: 
-  - seda
+    - seda
 weight: 03
 chapter: false
 date: 2023-07-11
