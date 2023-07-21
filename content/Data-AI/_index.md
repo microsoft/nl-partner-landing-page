@@ -13,4 +13,7 @@ summary: " "
 caption: /images/solutionareas/AI-white.png
 featured: true
 ---
+
 Here, you can find guidance on an efficient **Data & AI partner journey**. We provide you with a step by step approach where you can grow your organization, build the necessary skills, define and build a solution, and finally go to market. Below, you can find the different steps that a (partner) organization will typically go through in their partner journey. From each page (and its sub pages), you will typically find links to official Microsoft documentation and sites that might be helpful. Enjoy!
+
+{{% landing %}}
