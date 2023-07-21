@@ -11,7 +11,7 @@ alwaysopen: false
 lastmod: 2022-09-16T12:04:08.394Z
 
 summary: "With this journey, we want to help partners that want to get started in the context of Azure Data & AI"
-caption: /images/solutionareas/DataAndAI.png
+caption: /images/solutionareas/AI-white.png
 featured: true
 ---
 
