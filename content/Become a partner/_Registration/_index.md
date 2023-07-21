@@ -10,6 +10,7 @@ draft: false
 alwaysopen: false
 featured: true
 summary: "Registration information"
+caption: /images/become-partner/join.png
 ---
 {{% notice style="warning" title="Make this your own" icon="bomb" %}}
 Here we will include relevant information about registering as a partner

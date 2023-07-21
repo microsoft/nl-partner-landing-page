@@ -10,6 +10,7 @@ draft: false
 alwaysopen: false
 featured: true
 summary: "Resources from partner center"
+caption: /images/become-partner/community.png
 ---
 {{% notice style="warning" title="Make this your own" icon="bomb" %}}
 Here we will include relevant links/resources from the partner center
