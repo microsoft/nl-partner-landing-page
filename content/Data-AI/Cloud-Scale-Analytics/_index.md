@@ -11,7 +11,7 @@ alwaysopen: false
 featured: true
 summary: "Power Business Decisions with Cloud Scale Analytics"
 shortlink: aka.ms/beluxpartnertech/data/cloud-scale-analytics
-caption: /images/Journeys/DATA-AI/business-decisions.png
+caption: /images/solutionareas/business-decisions.png
 ---
 {{% notice style="warning" title="Make this your own" icon="bomb" %}}
 In the belux site, we chose to set up this site in this way. Your needs might be different and because of that I really encourage you to modify/update the site to suit it to your needs (incl layout)
