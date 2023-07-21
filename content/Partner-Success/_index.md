@@ -10,6 +10,7 @@ draft: false
 alwaysopen: false
 featured: true
 summary: "Partner success stories"
+caption: /images/solutionareas/partner-success.png
 ---
 {{% notice style="warning" title="Make this your own" icon="bomb" %}}
 Here we will feature our partners - what have they achieved with our solutions?

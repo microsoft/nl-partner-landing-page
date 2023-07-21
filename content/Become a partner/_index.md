@@ -8,6 +8,7 @@ weight: 04
 draft: false
 chapter: false
 alwaysopen: false
+caption: /images/solutionareas/start-journey.png
 ---
 
 {{% notice style="warning" title="Make this your own" icon="bomb" %}}
