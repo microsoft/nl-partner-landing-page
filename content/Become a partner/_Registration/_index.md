@@ -9,7 +9,7 @@ date: 2023-07-11
 draft: false
 alwaysopen: false
 featured: true
-summary: "Registration information"
+summary: "Read more about our registration process"
 caption: /images/become-partner/join.png
 ---
 {{% notice style="warning" title="Make this your own" icon="bomb" %}}

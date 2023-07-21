@@ -9,7 +9,7 @@ date: 2023-07-11
 draft: false
 alwaysopen: false
 featured: true
-summary: "Resources from partner center"
+summary: "Read our partner pledge"
 caption: /images/become-partner/pledge.png
 ---
 {{% notice style="warning" title="Make this your own" icon="bomb" %}}

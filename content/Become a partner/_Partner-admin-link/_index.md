@@ -9,7 +9,7 @@ date: 2023-07-11
 draft: false
 alwaysopen: false
 featured: true
-summary: "Resources from partner center"
+summary: "Learn more about setting up the partner link"
 caption: /images/become-partner/admin-link.png
 ---
 {{% notice style="warning" title="Make this your own" icon="bomb" %}}
