@@ -9,7 +9,7 @@ draft: false
 chapter: false
 alwaysopen: false
 lastmod: 2022-09-16T12:04:08.394Z
-summary: " "
+summary: "Take a look at our Data & AI offerings"
 caption: /images/solutionareas/AI-white.png
 featured: true
 ---

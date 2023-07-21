@@ -9,7 +9,7 @@ date: 2023-07-11
 draft: false
 alwaysopen: false
 featured: true
-summary: "Partner success stories"
+summary: "Check our partners' achievements"
 caption: /images/solutionareas/partner-success.png
 ---
 {{% notice style="warning" title="Make this your own" icon="bomb" %}}
