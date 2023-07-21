@@ -2,7 +2,7 @@
 title: Partner Admin Link
 menutitle: Partner Admin Link
 author: 
-  - daphne
+  - seda
 weight: 03
 chapter: false
 date: 2023-07-11
