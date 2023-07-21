@@ -12,8 +12,6 @@ summary: "Join our partner community"
 caption: /images/solutionareas/start-journey.png
 ---
 
-{{% notice style="warning" title="Make this your own" icon="bomb" %}}
-Here we will add information about becoming a partner
-{{% /notice %}}
+Here you can find all necessary resources to successfully onboard in our **partner community**!
 
 {{% landing %}}
