@@ -18,11 +18,13 @@ At Microsoft we love to work with partners. Our entrance point for collaboration
 
 The referrals you share (requirement 3 out of 4 BANT-criteria) will land with our sales teams. In Partner Center you can set up the referral and [**ask for help from the account team to support the customer together**](https://learn.microsoft.com/en-us/partner-center/co-sell-overview "https://learn.microsoft.com/en-us/partner-center/co-sell-overview").
 
+### Get started
 To start co-selling, partners need an MPN membership, access to [**Partner Center**](https://partner.microsoft.com/en-us/ "https://partner.microsoft.com/en-us/"), a [**business profile**](https://learn.microsoft.com/en-us/partner-center/create-a-marketing-profile "https://learn.microsoft.com/en-us/partner-center/create-a-marketing-profile"), a [**commercial-ready solution**](https://learn.microsoft.com/en-us/partner-center/co-sell-configure "https://learn.microsoft.com/en-us/partner-center/co-sell-configure"), an engaged sales team, and a strong go-to-market strategy. This year you will also need a solution designation within the Microsoft Cloud Partner Program or take part in the [**ISV program**](https://partner.microsoft.com/en-us/asset/collection/independent-software-vendor-resources#/ "https://partner.microsoft.com/en-us/asset/collection/independent-software-vendor-resources#/"). The required commercial-ready solution has to be [**published**](https://learn.microsoft.com/en-us/partner-center/marketplace/publisher-guide-by-offer-type "https://learn.microsoft.com/en-us/partner-center/marketplace/publisher-guide-by-offer-type") at Microsoft commercial marketplace in at least one of the two main online stores:
 
 -   [**Microsoft AppSource**](https://appsource.microsoft.com/ "https://appsource.microsoft.com/") for business solutions
 -   [**Azure Marketplace**](https://azuremarketplace.microsoft.com/ "https://azuremarketplace.microsoft.com/") for IT solutions
 
+### Step-by-step
 **1.**  Get co-sell ready by creating a plan and engaging internal stakeholders. Utilize resources like Partner Center for setting up your solution and Partner Center Docs for guidance.
 
 **2.**  Manage your [**business profile**](https://learn.microsoft.com/en-us/partner-center/create-a-marketing-profile "https://learn.microsoft.com/en-us/partner-center/create-a-marketing-profile") to help Microsoft sales leads find you and receive [**referrals**](https://learn.microsoft.com/en-us/partner-center/referrals "https://learn.microsoft.com/en-us/partner-center/referrals").

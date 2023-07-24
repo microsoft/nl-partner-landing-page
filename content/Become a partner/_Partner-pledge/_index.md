@@ -12,6 +12,3 @@ featured: true
 summary: "Read our partner pledge"
 caption: /images/become-partner/pledge.png
 ---
-{{% notice style="warning" title="Make this your own" icon="bomb" %}}
-Here we will include relevant links/resources from the partner center
-{{% /notice %}}
