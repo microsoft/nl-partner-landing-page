@@ -9,7 +9,7 @@ date: 2023-07-11
 draft: false
 alwaysopen: false
 featured: true
-summary: "Resources from partner center."
+summary: "Browse the most relevant resources from our partner center."
 caption: /images/become-partner/resources.png
 ---
 ## Build and publish your solution on the Marketplace
