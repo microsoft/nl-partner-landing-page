@@ -2,7 +2,7 @@
 title: Partner Pledge
 menutitle: Partner Pledge
 author: 
-  - seda
+  - daphne
 weight: 03
 chapter: false
 date: 2023-07-11
