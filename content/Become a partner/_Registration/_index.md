@@ -14,7 +14,7 @@ caption: /images/become-partner/join.png
 ---
 ### Join our Partner Network!
 [**Join the Microsoft Partner Network and validate your account.**](https://lnkd.in/eX5pZvwN "https://lnkd.in/ex5pzvwn") It's the gateway to amazing resources and support.  You can easily become a partner and start with a Microsoft Action Pack to get your first internal use licenses and benefits.  
-  
+
 Consider becoming a Microsoft Cloud Solutions Partner with *focus on AI*. Find the resources that you need to learn more about the Microsoft AI Cloud Partner Program, including Solutions Partner designations, benefits, capability score, Partner Center dashboard, and frequently asked questions. [Click here to view our resources.](https://partner.microsoft.com/en-us/asset/collection/solutions-partner-designation-resources#/ "https://partner.microsoft.com/en-us/asset/collection/solutions-partner-designation-resources#/")
 
 ### Are you an independent software vendor?
