@@ -1,6 +1,6 @@
 ---
-title: Getting started in Data & AI (Azure)
-menutitle: Getting started in Data & AI
+title: Get started with Azure Data & AI stack
+menutitle: Get started with Azure Data & AI stack
 date: 2022-08-15T15:07:44+02:00
 author: 
   - fcortella
@@ -15,12 +15,8 @@ caption: /images/solutionareas/AI-white.png
 featured: true
 ---
 
-{{% notice style="warning" title="Make this your own" icon="bomb" %}}
-Test env.
+# Get started with Azure Data & AI stack
 
-Have Fun!
-{{% /notice %}}
-
-Here, you can find guidance on an efficient **Data & AI partner journey**. We provide you with a step by step approach where you can grow your organization, build the necessary skills, define and build a solution, and finally go to market. Below, you can find the different steps that a (partner) organization will typically go through in their partner journey. From each page (and its sub pages), you will typically find links to official Microsoft documentation and sites that might be helpful. Enjoy!
-
-{{% journey %}}
+In this section, you fill find a centralized collection of relevant resources that will help you implement Data & AI solutions for your customers, in line with the Microsoft FY24 solution plays:
+•	Power Business Decisions with **Cloud Scale Analytics**
+•	Build & Modernize **AI Apps**
