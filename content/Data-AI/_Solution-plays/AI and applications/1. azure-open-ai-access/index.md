@@ -1,6 +1,6 @@
 ---
-title: Data & AI
-menutitle: Azure Data & AI
+title: Access to Azure OpenAI
+menutitle: Access to Azure OpenAI
 date: 2022-08-15T15:07:44+02:00
 author: 
   - fcortella

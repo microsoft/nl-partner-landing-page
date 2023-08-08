@@ -21,4 +21,4 @@ Azure Databricks is a unified set of tools for building, deploying, sharing, and
 
 Databricks has revolutionized the industry by embracing open-source format with [delta](https://learn.microsoft.com/en-us/azure/databricks/introduction/delta-comparison) and inventing the [lakehouse architecture](https://learn.microsoft.com/en-us/azure/databricks/lakehouse/) which is now the state-of-the-art framework for Azure Analytics customers.
 
-**As partners, we encourage you to explore Databricks material and courses published in their [partner academy](https://partner-academy.databricks.com/learn) and learn [the best practices for implementation on Azure](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/cloud-scale-analytics/best-practices/azure-databricks-implementation).**
+As partners, we encourage you to explore Databricks material and courses published in their [partner academy](https://partner-academy.databricks.com/learn) and learn [the best practices for implementation on Azure](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/cloud-scale-analytics/best-practices/azure-databricks-implementation).

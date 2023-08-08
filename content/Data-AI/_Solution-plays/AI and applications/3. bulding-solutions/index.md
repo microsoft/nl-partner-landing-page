@@ -1,6 +1,6 @@
 ---
-title: Data & AI
-menutitle: Azure Data & AI
+title: Build your solution
+menutitle: Build your solution
 date: 2022-08-15T15:07:44+02:00
 author: 
   - fcortella
@@ -71,20 +71,4 @@ o	[From Prompts to Embeddings and Vector Stores - How to use OpenAI in real scen
 •	[Microsoft Inspire 2023](https://inspire.microsoft.com/en-US/sessions?filter=topic%2FlogicalValue%3ESolution+Area&filter=solutionPlays%2FlogicalValue%3EAzure+-+Data+and+AI)
 
 
-## Responsible AI on Azure
-•	[Overview of Responsible AI practices for Azure OpenAI models - Azure AI services | Microsoft Learn](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/overview?context=%2Fazure%2Fai-services%2Fopenai%2Fcontext%2Fcontext)
-•	[Azure OpenAI Service abuse monitoring - Azure OpenAI | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/abuse-monitoring)
-•	[Azure OpenAI Service content filtering - Azure OpenAI | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/content-filter)
-•	[Introduction to red teaming large language models (LLMs) - Azure OpenAI Service | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/red-teaming)
-•	[Azure AI Content Safety – AI Content Moderation | Microsoft Azure](https://azure.microsoft.com/en-us/products/ai-services/ai-content-safety) 
 
-
-## LLMs on Azure
-**Meta LLama 2 Foundational Model**
-•	[Introducing Llama 2 on Azure (microsoft.com)](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/introducing-llama-2-on-azure/ba-p/3881233)
-•	[Meta LLama 2 Foundational Model with Prompt Flow][(](https://learn.microsoft.com/en-us/shows/ai-show/meta-llama-2-foundational-model-with-prompt-flow)) 
-
-**Hugging Face on Azure**
-•	[Hugging Face Collaborates with Microsoft to launch Hugging Face Model Catalog on Azure](https://huggingface.co/blog/hugging-face-endpoints-on-azure)
-•	[What are Hugging Face Transformers? - Azure Databricks | Microsoft Learn](https://learn.microsoft.com/en-us/azure/databricks/machine-learning/train-model/huggingface/)
-•	[Easier, Faster Training for your Hugging Face models | Microsoft Learn](https://learn.microsoft.com/en-us/shows/ai-show/easier-faster-training-for-your-hugging-face-models)
