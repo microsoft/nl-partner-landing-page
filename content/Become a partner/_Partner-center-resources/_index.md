@@ -26,7 +26,7 @@ To start co-selling, partners need an MPN membership, access to [<u>Partner Cent
 ### Step-by-step
 **1.**  Get co-sell ready by creating a plan and engaging internal stakeholders. Utilize resources like Partner Center for setting up your solution and Partner Center Docs for guidance.
 
-**2.**  Manage your [<u>business profile</u>](https://learn.microsoft.com/en-us/partner-center/create-a-marketing-profile) to help Microsoft sales leads find you and receive [<u>referrals<u>](https://learn.microsoft.com/en-us/partner-center/referrals).
+**2.**  Manage your [<u>business profile</u>](https://learn.microsoft.com/en-us/partner-center/create-a-marketing-profile) to help Microsoft sales leads find you and receive [<u>referrals</u>](https://learn.microsoft.com/en-us/partner-center/referrals).
 
 **3.** Create your [<u>co-sell solution listing</u>](https://learn.microsoft.com/en-us/partner-center/co-sell-configure) and review the resources at [<u>Microsoft Azure IP co-sell resources</u>](https://partner.microsoft.com/en-us/asset/collection/microsoft-azure-ip-co-sell-resources#/)
 
@@ -34,4 +34,4 @@ To start co-selling, partners need an MPN membership, access to [<u>Partner Cent
 
 **5.** Review your success by keeping opportunities up to date and monitoring collaboration progress.
 
-For independent software vendors, discuss your readiness and next steps with the ISV team! Book a Teams meeting with the local ISV team. They are eager to guide you and help you succeed.🚀 <u>https://lnkd.in/eMjVyMhn</u>
+For independent software vendors, discuss your readiness and next steps with the ISV team! Book a Teams meeting with the local ISV team. They are eager to guide you and help you succeed.🚀 [<u>https://lnkd.in/eMjVyMhn</u>](https://lnkd.in/eMjVyMhn)
