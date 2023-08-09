@@ -16,4 +16,4 @@ featured: true
 
 # Get Your Data Estate AI-Ready
 
-First, you’ll need to make sure your IT landscape is AI-ready. This means you have invested time to evaluate your data estate and you’ve made the right moves to migrate to [<u>Azure How to Migrate and Modernize with the Cloud | Microsoft Azure.<u>](https://azure.microsoft.com/en-us/solutions/migration/migration-journey/?activetab=pivot:planningtab#migration) Organizations simply can’t access any of the benefits of AI if your data is still on-prem.  Secondly, learning how to modernize your data and analytics to Azure creates a foundation for AI. 
+First, you’ll need to make sure your IT landscape is AI-ready. This means you have invested time to evaluate your data estate and you’ve made the right moves to migrate to [<u>Azure How to Migrate and Modernize with the Cloud | Microsoft Azure.</u>](https://azure.microsoft.com/en-us/solutions/migration/migration-journey/?activetab=pivot:planningtab#migration) Organizations simply can’t access any of the benefits of AI if your data is still on-prem.  Secondly, learning how to modernize your data and analytics to Azure creates a foundation for AI. 

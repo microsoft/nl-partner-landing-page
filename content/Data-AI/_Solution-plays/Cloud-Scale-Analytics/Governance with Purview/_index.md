@@ -72,12 +72,12 @@ Add additional features
 ## Advanced material
 
 Finally, we invite you to explore the following resources for integration and customization:
-- [<u>GitHub - wjohnson/pyapacheatlas: A python package to help work with the apache atlas REST APIs<u>](https://github.com/wjohnson/pyapacheatlas)
-- [<u>GitHub - tayganr/purviewcli: Azure Purview CLI<u>](https://github.com/tayganr/purviewcli)
-- [<u>Official Python SDK: Azure SDK for Python (All) | Purview<u>](https://azure.github.io/azure-sdk/releases/latest/all/python.html)
-- Registration of custom sources and lineage via API: [<u>Use Azure Purview’s REST APIs for creating custom lineage<u>](https://piethein.medium.com/use-azure-purviews-rest-apis-for-creating-custom-lineage-ad8efacc6230)
-- Integrate Azure Synapse Analytics and Azure Purview together to build a framework for intelligently processing data: [<u>Modern Data Pipelines with Azure Synapse Analytics and Azure Purview<u>](https://piethein.medium.com/modern-data-pipelines-with-azure-synapse-analytics-and-azure-purview-fe752d874c67)
-- Programmatically monitor for metadata changes in real-time, allowing you to enrich your user experience by also integrating with other services: [<u>Process events from Azure Purview’s Atlas Kafka topics via Event Hubs and NodeJS<u>](https://piethein.medium.com/process-events-from-azure-purviews-atlas-kafka-topics-via-event-hubs-and-nodejs-cfcbe044bb2c)
-- Databricks Solution Accelerator: <u>https://github.com/microsoft/Purview-ADB-Lineage-Solution-Accelerator<u>. Uses OpenLineage connector that will transfer lineage metadata from Spark operations in Azure Databricks to Microsoft Purview, allowing you to see a table-level lineage graph as demonstrated above.
-- Metadata-driven processing framework: <u>https://piethein.medium.com/designing-a-metadata-driven-processing-framework-for-azure-synapse-and-azure-purview-33121a63ebc0.<u> Uses a SQL Server metadata database for iteratively executing Notebooks. The pipeline metadata will be used for transferring lineage to Purview.
-- <u>https://github.com/pietheinstrengholt/Purview-Bulk-Collection-Mover<u>
+- [<u>GitHub - wjohnson/pyapacheatlas: A python package to help work with the apache atlas REST APIs</u>](https://github.com/wjohnson/pyapacheatlas)
+- [<u>GitHub - tayganr/purviewcli: Azure Purview CLI</u>](https://github.com/tayganr/purviewcli)
+- [<u>Official Python SDK: Azure SDK for Python (All) | Purview</u>](https://azure.github.io/azure-sdk/releases/latest/all/python.html)
+- Registration of custom sources and lineage via API: [<u>Use Azure Purview’s REST APIs for creating custom lineage</u>](https://piethein.medium.com/use-azure-purviews-rest-apis-for-creating-custom-lineage-ad8efacc6230)
+- Integrate Azure Synapse Analytics and Azure Purview together to build a framework for intelligently processing data: [<u>Modern Data Pipelines with Azure Synapse Analytics and Azure Purview</u>](https://piethein.medium.com/modern-data-pipelines-with-azure-synapse-analytics-and-azure-purview-fe752d874c67)
+- Programmatically monitor for metadata changes in real-time, allowing you to enrich your user experience by also integrating with other services: [<u>Process events from Azure Purview’s Atlas Kafka topics via Event Hubs and NodeJS</u>](https://piethein.medium.com/process-events-from-azure-purviews-atlas-kafka-topics-via-event-hubs-and-nodejs-cfcbe044bb2c)
+- Databricks Solution Accelerator: <u>https://github.com/microsoft/Purview-ADB-Lineage-Solution-Accelerator</u>. Uses OpenLineage connector that will transfer lineage metadata from Spark operations in Azure Databricks to Microsoft Purview, allowing you to see a table-level lineage graph as demonstrated above.
+- Metadata-driven processing framework: <u>https://piethein.medium.com/designing-a-metadata-driven-processing-framework-for-azure-synapse-and-azure-purview-33121a63ebc0.</u> Uses a SQL Server metadata database for iteratively executing Notebooks. The pipeline metadata will be used for transferring lineage to Purview.
+- <u>https://github.com/pietheinstrengholt/Purview-Bulk-Collection-Mover</u>

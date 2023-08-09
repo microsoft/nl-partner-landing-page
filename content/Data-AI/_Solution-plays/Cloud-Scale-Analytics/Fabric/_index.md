@@ -27,12 +27,12 @@ Fabric represents a big switch in the Data & AI field:
 - Switching from different data sources to an unique centralized place - Onelake 
 - Embracing open-source format with delta-parquet 
 
-Fabric has been announced at Build 2023 and it's currently in public Preview, [<u>learn how to enable it for your organization<u>](https://learn.microsoft.com/en-us/fabric/admin/fabric-switch). Find below rich and detailed sessions deliver at Build:
+Fabric has been announced at Build 2023 and it's currently in public Preview, [<u>learn how to enable it for your organization</u>](https://learn.microsoft.com/en-us/fabric/admin/fabric-switch). Find below rich and detailed sessions deliver at Build:
 
 <u>https://www.youtube.com/watch?v=1o_QDFq6gzE<u>
 
 
-If you want to learn more, we encourage you to explore the [<u>dedicated learning path<u>](https://learn.microsoft.com/en-us/training/paths/get-started-fabric/). You can also find extra hands-on labs at [<u>this link<u>](https://learn.microsoft.com/en-us/fabric/get-started/end-to-end-tutorials). Whether all necessary go-to-market resources can be downloaded from <u>[this hub.](https://partner.microsoft.com/en-us/asset/collection/fabric-readiness-and-enablement-resources#/)<u>
+If you want to learn more, we encourage you to explore the [<u>dedicated learning path</u>](https://learn.microsoft.com/en-us/training/paths/get-started-fabric/). You can also find extra hands-on labs at [<u>this link</u>](https://learn.microsoft.com/en-us/fabric/get-started/end-to-end-tutorials). Whether all necessary go-to-market resources can be downloaded from <u>[<u>this hub.</u>](https://partner.microsoft.com/en-us/asset/collection/fabric-readiness-and-enablement-resources#/)<u>
 
 ## A comprensive SaaS solution
 

@@ -12,7 +12,7 @@ featured: true
 summary: "Pre-sales & Deployment Services"
 ---
 ## Pre-sales & Deployment Services
-Use [<u>Technical presales and deployment services (TPD)<u>](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest "https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest") for personalized one-to-one consultations. These consultations are designed to help you plan, build, and publish your Microsoft cloud service or application, and help you close sales opportunities.
+Use [<u>Technical presales and deployment services (TPD)</u>](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest "https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest") for personalized one-to-one consultations. These consultations are designed to help you plan, build, and publish your Microsoft cloud service or application, and help you close sales opportunities.
 
 |  **Offer Type** | **Number of Advisory Hours** | **Technical Presales**|
 |--|--|--|
@@ -23,8 +23,8 @@ Use [<u>Technical presales and deployment services (TPD)<u>](https://partner.mic
 
 Only partners with Solutions Partner designation, legacy gold/silver benefits, or Microsoft Action Pack are eligible for service. Services aren't provided to customers or partners/resellers who don't have a Solutions Partner designation, legacy gold/silver benefits pack, or Microsoft Action Pack. This includes scenarios in which they may be on the same call as an eligible partner.
 
-Sign in with any Partner Center user account to [<u>create a technical presales and deployment services request<u>](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest "https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest").
+Sign in with any Partner Center user account to [<u>create a technical presales and deployment services request</u>](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest "https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest").
 
 ## Fast Track for Azure
 Learn how to move to Azure efficiently with customized guidance from Azure engineers.
-[<u>FastTrack for Azure – Technical Enablement FAQ | Microsoft Azure<u>](https://azure.microsoft.com/en-us/pricing/offers/azure-fasttrack/#overview "https://azure.microsoft.com/en-us/pricing/offers/azure-fasttrack/#overview")
+[<u>FastTrack for Azure – Technical Enablement FAQ | Microsoft Azure</u>](https://azure.microsoft.com/en-us/pricing/offers/azure-fasttrack/#overview "https://azure.microsoft.com/en-us/pricing/offers/azure-fasttrack/#overview")
