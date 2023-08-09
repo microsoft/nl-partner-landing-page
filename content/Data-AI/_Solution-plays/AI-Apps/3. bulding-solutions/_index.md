@@ -57,7 +57,7 @@ Learn more at: [<u>Deploy your ChatGPT based model securely using Microsoft Team
 - [<u>Vector search - Azure Cognitive Search | Microsoft Learn</u>](https://learn.microsoft.com/en-us/azure/search/vector-search-overview)
 	[<u>Index overview - Azure Cognitive Search | Microsoft Learn</u>](https://learn.microsoft.com/en-us/azure/search/search-what-is-an-index)
 - Stay up to date with chunking sstrategies for LLM Applications
-- <u>[Unlock the Potential of AI in Your Apps with Semantic Kernel: A Lightweight SDK for LLMs</u>](https://techcommunity.microsoft.com/t5/educator-developer-blog/unlock-the-potential-of-ai-in-your-apps-with-semantic-kernel-a/ba-p/3773847)
+- [<u>Unlock the Potential of AI in Your Apps with Semantic Kernel: A Lightweight SDK for LLMs</u>](https://techcommunity.microsoft.com/t5/educator-developer-blog/unlock-the-potential-of-ai-in-your-apps-with-semantic-kernel-a/ba-p/3773847)
 - Prompt Engineering
 - [<u>Azure Machine Learning prompt flow</u>](https://learn.microsoft.com/en-us/azure/machine-learning/prompt-flow/overview-what-is-prompt-flow?view=azureml-api-2) is a development tool designed to streamline the entire development cycle of AI applications powered by Large Language Models (LLMs). You can now [<u>integrate Langchain into Prompt flow</u>](https://learn.microsoft.com/en-us/azure/machine-learning/prompt-flow/how-to-integrate-with-langchain?view=azureml-api-2) and in the future Semantic Kernel. 
 - [<u>Prompt engineering techniques with Azure OpenAI - Azure OpenAI Service | Microsoft Learn</u>](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions)
