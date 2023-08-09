@@ -27,7 +27,7 @@ Microsoft Purview is a family of data governance, risk, and compliance solutions
 - Enables at-scale access provisioning
 - Share data in place without having to make duplications
 
-We invite you to learn about Purview data governance solutions and its components: Data Map, Data Catalog app, Data Estate Insights app, Data Sharing app, and Data Policy app. You can find all the relevant documentation and trainings [<u>here<u>](https://learn.microsoft.com/en-us/purview/governance-home).
+We invite you to learn about Purview data governance solutions and its components: Data Map, Data Catalog app, Data Estate Insights app, Data Sharing app, and Data Policy app. You can find all the relevant documentation and trainings [<u>here</u>](https://learn.microsoft.com/en-us/purview/governance-home).
 
 
 ## Engagements break-down
