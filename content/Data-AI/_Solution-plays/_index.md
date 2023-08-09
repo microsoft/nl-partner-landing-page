@@ -16,5 +16,6 @@ featured: true
 ---
 
 In this section, you fill find a centralized collection of relevant resources that will help you implement Data & AI solutions for your customers, in line with the Microsoft FY24 solution plays:
-•	Power Business Decisions with **Cloud Scale Analytics**
-•	Build & Modernize **AI Apps**
+
+- Power Business Decisions with **Cloud Scale Analytics**
+- Build & Modernize **AI Apps**
