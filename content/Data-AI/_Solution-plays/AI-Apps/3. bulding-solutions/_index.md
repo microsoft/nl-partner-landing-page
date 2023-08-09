@@ -32,7 +32,7 @@ Learn more at: [<u>Deploy your ChatGPT based model securely using Microsoft Team
 -	[<u>Apply for access to the Azure OpenAI Service.</u>](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUOFA5Qk1UWDRBMjg0WFhPMkIzTzhKQ1dWNyQlQCN0PWcu)
 -	Watch the video: [<u>An Introduction to Azure OpenAI.</u>](https://www.youtube.com/watch?v=HTw4cJy3XNk)
 -	Get Familiarized with the product content: [<u>Azure OpenAI Page.</u>](https://azure.microsoft.com/en-us/products/ai-services/openai-service)
--	Review how [other customers are using Azure AI.</u>](https://www.microsoft.com/en-us/ai/azure-customer-stories-ai)
+-	Review how [<u>other customers are using Azure AI.</u>](https://www.microsoft.com/en-us/ai/azure-customer-stories-ai)
 
 **Basic**
 -	Understand [<u>“What is Azure OpenAI?”:</u>](https://learn.microsoft.com/en-us/azure/ai-services/openai/overview) compare Azure OpenAI and OpenAI. Review key concepts.
