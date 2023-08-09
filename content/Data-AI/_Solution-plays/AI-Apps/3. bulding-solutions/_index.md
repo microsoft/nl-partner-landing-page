@@ -15,7 +15,7 @@ featured: true
 ---
 
 
-# Building Solutions: No Code- Low Code- Full Code 
+## No Code - Low Code - Full Code 
 
 When it comes to building Azure OpenAI-powered applications on Azure, partners have a range of approaches at their disposal, ranging from no-code to low-code to full code. These approaches cater to the needs of all developers, ensuring flexibility in the development process. Furthermore, these methods enable the creation of Minimum Viable Products (MVP), allowing businesses to showcase AI benefits to customers swiftly. Additionally, the validation of data quality becomes more efficient, facilitating prompt decision-making and swift actions based on early insights.  
 
