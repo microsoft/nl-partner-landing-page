@@ -32,7 +32,7 @@ Fabric has been announced at Build 2023 and it's currently in public Preview, [<
 [<u>https://www.youtube.com/watch?v=1o_QDFq6gzE</u>](https://www.youtube.com/watch?v=1o_QDFq6gzE)
 
 
-If you want to learn more, we encourage you to explore the [<u>dedicated learning path</u>](https://learn.microsoft.com/en-us/training/paths/get-started-fabric/). You can also find extra hands-on labs at [<u>this link</u>](https://learn.microsoft.com/en-us/fabric/get-started/end-to-end-tutorials). Whether all necessary go-to-market resources can be downloaded from <u>[<u>this hub.</u>](https://partner.microsoft.com/en-us/asset/collection/fabric-readiness-and-enablement-resources#/)
+If you want to learn more, we encourage you to explore the [<u>dedicated learning path</u>](https://learn.microsoft.com/en-us/training/paths/get-started-fabric/). You can also find extra hands-on labs at [<u>this link</u>](https://learn.microsoft.com/en-us/fabric/get-started/end-to-end-tutorials). Whether all necessary go-to-market resources can be downloaded from [<u>this hub.</u>](https://partner.microsoft.com/en-us/asset/collection/fabric-readiness-and-enablement-resources#/)
 
 ## A comprensive SaaS solution
 

@@ -56,3 +56,7 @@ summary: "Partner programs available"
 **[<u>Post-sales consumption estimates</u>](https://aka.ms/AMMpartnersuccess)**
 
 **Campaign in a Box link: [<u>Migrate & Modernize Azure Virtual Desktop with AMMP Campaign</u>](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpartner.microsoft.com%2Fen-US%2Fasset%2Fcollection%2Fmigrate-modernize-avd-ammp-campaign%23%2F&data=05%7C01%7Cfcortella%40microsoft.com%7Cdd4d9b9102df4912cb6b08db91c7dc06%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638264059801617898%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=F3ZTTEPSztOa9SBlKhvoxqyWrFPwtHss1mbBXg9sKjQ%3D&reserved=0)**
+
+## ISV PROGRAMS
+
+[**<u>ISV success program</u>**](https://www.microsoft.com/en-us/isv/program-benefits)

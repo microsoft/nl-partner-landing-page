@@ -13,9 +13,6 @@ summary: "Power Business Decisions with Cloud Scale Analytics"
 shortlink: aka.ms/beluxpartnertech/data/cloud-scale-analytics
 caption: /images/solutionareas/business-decisions.png
 ---
-{{% toc %}}
-
-## Cloud Scale Analytics
  
  With larger, more sophisticated forms of cloud adoption, your journey to the cloud becomes more complex. Azure cloud-scale analytics is a scalable, repeatable framework that meets your organization's unique needs for building modern data platforms. Cloud-scale analytics covers both technical and non-technical considerations for analytics and governance in the cloud. This guidance strives to support hybrid and multicloud adoption by being cloud agnostic, but the included technical implementation examples focus on Azure products. 
 
