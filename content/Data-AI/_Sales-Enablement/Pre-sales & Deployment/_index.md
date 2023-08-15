@@ -1,15 +1,15 @@
 ---
 title: Pre-sales & Deployment Services
 menutitle: Pre-sales, Deployment Services & Azure Fast Track
-author: 
+author:
   - daphne
-weight: 03
+weight: 3
 chapter: false
 date: 2023-07-11
-draft: false
+draft: true
 alwaysopen: false
 featured: true
-summary: "Pre-sales & Deployment Services"
+summary: Pre-sales & Deployment Services
 ---
 ## Pre-sales & Deployment Services
 Use [<u>Technical presales and deployment services (TPD)</u>](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest "https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest") for personalized one-to-one consultations. These consultations are designed to help you plan, build, and publish your Microsoft cloud service or application, and help you close sales opportunities.

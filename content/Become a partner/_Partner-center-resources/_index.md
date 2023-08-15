@@ -3,7 +3,7 @@ title: Partner Center Resources
 menutitle: Build & publish your solution
 author: 
   - daphne
-weight: 03
+weight: 02
 chapter: false
 date: 2023-07-11
 draft: false

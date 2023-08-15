@@ -4,7 +4,7 @@ menutitle: Become a partner
 date: 2022-08-15T15:07:44+02:00
 author: 
   - daphne
-weight: 04
+weight: 01
 draft: false
 chapter: false
 alwaysopen: false

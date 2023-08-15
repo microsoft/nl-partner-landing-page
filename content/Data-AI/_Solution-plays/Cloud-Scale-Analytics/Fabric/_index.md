@@ -1,5 +1,5 @@
 ---
-title: Fabric
+title: Microsoft Fabric
 menutitle: Fabric
 author: 
   - fcortella
@@ -13,9 +13,6 @@ summary: "Fabric"
 shortlink: aka.ms/beluxpartnertech/data/cloud-scale-analytics
 caption: /images/solutionareas/business-decisions.png
 ---
-{{% toc %}}
-
-# Microsoft Fabric
 
 Microsoft Fabric is an all-in-one analytics solution for enterprises that covers everything from data movement to data science, Real-Time Analytics, and business intelligence. It offers a comprehensive suite of services, including data lake, data engineering, and data integration, all in one place. 
 

@@ -2,7 +2,7 @@
 title: Skilling
 menutitle: Skilling
 author: 
-  - seda
+  - cliodhna
 weight: 03
 chapter: false
 date: 2023-07-11

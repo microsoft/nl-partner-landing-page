@@ -3,7 +3,7 @@ title: Partner Pledge
 menutitle: Partner Pledge
 author: 
   - daphne
-weight: 03
+weight: 04
 chapter: false
 date: 2023-07-11
 draft: false
