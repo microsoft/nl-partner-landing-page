@@ -1,4 +1,4 @@
-baseURL = 'https://microsoft.github.io/nl-partner-landing-page/'
+baseURL = 'https://microsoft.github.io/NetherlandsTechPartnersHub/index.html'
 canonifyURLs=true
 languageCode = 'en-us'
 title = 'Microsoft NL Partner Tech Hub'
@@ -9,8 +9,8 @@ uglyurls = false
 # settings specific to this theme's features; choose to your likings and
 # consult this documentation for explanation
 [params]
-#  editURL = "https://github.com/McShelby/hugo-theme-relearn/edit/main/exampleSite/content/"
-#  description = "Documentation for Hugo Relearn Theme"
+#  editURL = "https://microsoft.github.io/NetherlandsTechPartnersHub/index.html"
+#  description = "Tech documentation for Partners"
   author = "Microsoft NL Techteam"
   showVisitedLinks = false
   collapsibleMenu = true
