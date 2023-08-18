@@ -2,13 +2,13 @@
 title: Become a partner
 menutitle: Become a partner
 date: 2022-08-15T15:07:44+02:00
-author: 
+author:
   - daphne
-weight: 01
+weight: 1
 draft: false
 chapter: false
 alwaysopen: false
-summary: "Join our partner community"
+summary: Join our partner community
 caption: /images/solutionareas/start-journey.png
 ---
 
