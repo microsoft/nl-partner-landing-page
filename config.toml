@@ -1,5 +1,5 @@
 baseURL = 'https://microsoft.github.io/nl-partner-landing-page/'
-canonifyURLs=false
+canonifyURLs=true
 languageCode = 'en-us'
 title = 'Microsoft NL Partner Tech Hub'
 enableEmoji = true
