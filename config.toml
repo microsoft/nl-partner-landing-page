@@ -9,7 +9,7 @@ uglyurls = false
 # settings specific to this theme's features; choose to your likings and
 # consult this documentation for explanation
 [params]
-  # editURL = "//microsoft.github.io/NetherlandsTechPartnersHub/"
+  editURL = "//microsoft.github.io/NetherlandsTechPartnersHub/"
   fullURL = "//microsoft.github.io/NetherlandsTechPartnersHub/"
   description = "Tech documentation for Partners"
   author = "Microsoft NL Techteam"
