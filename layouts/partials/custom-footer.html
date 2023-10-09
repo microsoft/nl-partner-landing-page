@@ -9,10 +9,10 @@
   function onConsentChanged(categoryPreferences) {
       console.log("onConsentChanged", categoryPreferences);
       if (categoryPreferences.Analytics) {
-        //gtag('consent', 'update', { 'analytics_storage': 'granted' });
+          gtag('consent', 'update', { 'analytics_storage': 'granted' });
       } 
       else {
-        //gtag('consent', 'update', { 'analytics_storage': 'denied' });
+          gtag('consent', 'update', { 'analytics_storage': 'denied' });
       }         
   }
 
