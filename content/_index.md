@@ -15,6 +15,16 @@ Have Fun!
 
 # Welcome to Microsoft Netherlands Partner Tech Hub
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7ESPK9E83S"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7ESPK9E83S');
+</script>
+
 ## The one-stop destination for uplifting your cloud journey
 
 > This is an in-preview initiative targeted towards Microsoft Partners in The Netherlands.
