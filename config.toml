@@ -1,4 +1,4 @@
-baseURL = 'https://microsoft.github.io/nl-partner-landing-page/'
+baseURL = 'https://microsoft.github.io/NetherlandsPartnerTechHub/'
 canonifyURLs=true
 languageCode = 'en-us'
 title = 'Microsoft NL Partner Tech Hub'
