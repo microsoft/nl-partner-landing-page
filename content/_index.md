@@ -1,17 +1,14 @@
 ---
-title: Welcome to Microsoft Netherlands Partner Tech Hub
+title: Welcome to the Microsoft Netherlands Partner Tech Hub
+menutitle: Welcome to the Microsoft Netherlands Partner Tech Hub
+date: 2022-08-15T15:07:44+02:00
+author:
+  - daphne
 weight: 1
-chapter: false
-date: 2023-03-09
 draft: false
+chapter: false
 alwaysopen: false
 ---
-
-<!-- {{% notice style="warning" title="Make this your own" icon="bomb" %}}
-In the belux site, we chose to set up this site in this way. Your needs might be different and because of that I really encourage you to modify/update the site to suit it to your needs (incl layout)
-
-Have Fun!
-{{% /notice %}} -->
 
 ## The one-stop destination for uplifting your cloud journey
 
