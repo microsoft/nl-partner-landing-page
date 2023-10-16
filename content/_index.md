@@ -1,11 +1,11 @@
-<!-- ---
-title: Microsoft Netherlands Partner Tech Hub
+---
+title: Welcome to Microsoft Netherlands Partner Tech Hub
 weight: 1
 chapter: false
 date: 2023-03-09
 draft: false
 alwaysopen: false
---- -->
+---
 
 <!-- {{% notice style="warning" title="Make this your own" icon="bomb" %}}
 In the belux site, we chose to set up this site in this way. Your needs might be different and because of that I really encourage you to modify/update the site to suit it to your needs (incl layout)
@@ -13,41 +13,21 @@ In the belux site, we chose to set up this site in this way. Your needs might be
 Have Fun!
 {{% /notice %}} -->
 
-# Welcome to Microsoft Netherlands Partner Tech Hub
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-7ESPK9E83S"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-7ESPK9E83S');
-</script>
-
 ## The one-stop destination for uplifting your cloud journey
 
-> This is an in-preview initiative targeted towards Microsoft Partners in The Netherlands.
-
 Our intent is to empower you with the necessary tools, knowledge, and opportunities - all available in one place.
-To accelerate your partner journey and customer opportunities, we have gathered valuable resources to support your exploration and success in the Data & AI domain.
+To accelerate your partner journey and customer opportunities, we have gathered valuable resources to support your exploration and success in Data & AI. We plan to expand to other solution areas in the future as well, but for the moment the technical content is targeted on Data & AI domain.
 
 ## Your guided journey to success
 
 **Step 1: Getting Started**
-Begin your journey by laying a solid foundation. Learn the fundamental concepts, tools, and techniques that form the building blocks of our Data and AI initiatives.
+We created an entire section for companies that are new to the concept of partnering with Microsoft. You will find all the information you need on how to become a Microsoft partner and which are the benefits you will get access to. 
 
-**Step 2: Explore Azure OpenAI**
-Discover how to leverage OpenAI's capabilities to enhance your data analysis and AI projects.
+**Step 2: Explore Data & AI tech resources**
+We built a collection of technical documentation about Azure Data & AI stack that you can use to upskill around topics like data governance, cloud analytics, and generative AI.
 
-**Step 3: Manage Data Governance**
-Master the art of data governance to ensure your data is managed securely, ethically, and in compliance with regulations. Learn best practices for data privacy, quality, and access control.
-
-**Step 4: Embrace Cloud Analytics**
-Unlock the potential of cloud analytics. Explore advanced techniques for processing, analyzing, and visualizing data in the cloud environment. Discover how to extract meaningful insights and make data-driven decisions.
-
-**Step 5: Go-to-Market**
-Take your Data and AI solutions to the market successfully. Learn strategies to effectively position, market, and monetize your offerings. Explore ways to drive adoption and maximize the value for your customers.
+**Step 3: Partner Programs, Sales Enablement and certifications**
+Learn more about Partner programs to get funding from  Microsoft, explore what it means to co-sell with us and learn more about Azure certifications and partner specializations.
 
 {{% notice style="tip" title="Note" %}}
 Please note this website is still in **preview phase**. While we are making continuous efforts to provide comprehensive information and resources, we acknowledge that certain areas may still be a work in progress.
