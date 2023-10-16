@@ -6,6 +6,8 @@ weight: 1
 draft: false
 chapter: false
 alwaysopen: false
+summary: "Partner guide"
+featured: true
 ---
 
 ### The one-stop destination for uplifting your cloud journey
