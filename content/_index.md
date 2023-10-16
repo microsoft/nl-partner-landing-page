@@ -10,7 +10,7 @@ summary: "Partner guide"
 featured: true
 ---
 
-## Welcome to the Microsoft Netherlands Partner Tech Hub
+# Welcome to the Microsoft Netherlands Partner Tech Hub
 
 ### The one-stop destination for uplifting your Azure Data & AI journey
 
