@@ -1,13 +1,5 @@
 ---
 title: Welcome to the Microsoft Netherlands Partner Tech Hub
-menutitle: Welcome to the Microsoft Netherlands Partner Tech Hub
-date: 2022-08-15T15:07:44+02:00
-weight: 1
-draft: false
-chapter: false
-alwaysopen: false
-summary: "Partner guide"
-featured: true
 ---
 
 ### The one-stop destination for uplifting your Azure Data & AI journey
