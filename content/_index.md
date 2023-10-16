@@ -8,12 +8,12 @@ chapter: false
 alwaysopen: false
 ---
 
-## The one-stop destination for uplifting your cloud journey
+### The one-stop destination for uplifting your cloud journey
 
 Our intent is to empower you with the necessary tools, knowledge, and opportunities - all available in one place.
 To accelerate your partner journey and customer opportunities, we have gathered valuable resources to support your exploration and success in Data & AI. We plan to expand to other solution areas in the future as well, but for the moment the technical content is targeted on Data & AI domain.
 
-## Your guided journey to success
+### Your guided journey to success
 
 **Step 1: Getting Started**
 We created an entire section for companies that are new to the concept of partnering with Microsoft. You will find all the information you need on how to become a Microsoft partner and which are the benefits you will get access to. 
