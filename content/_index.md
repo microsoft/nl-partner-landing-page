@@ -10,7 +10,7 @@ summary: "Partner guide"
 featured: true
 ---
 
-### The one-stop destination for uplifting your cloud journey
+### The one-stop destination for uplifting your Azure Data & AI journey
 
 Our intent is to empower you with the necessary tools, knowledge, and opportunities - all available in one place.
 To accelerate your partner journey and customer opportunities, we have gathered valuable resources to support your exploration and success in Data & AI. We plan to expand to other solution areas in the future as well, but for the moment the technical content is targeted on Data & AI domain.
@@ -30,5 +30,3 @@ Learn more about Partner programs to get funding from  Microsoft, explore what i
 Please note this website is still in **preview phase**. While we are making continuous efforts to provide comprehensive information and resources, we acknowledge that certain areas may still be a work in progress.
 We greatly value your feedback and encourage you to reach out to one of our dedicated team members should you have any uncertainties or require further clarification.
 {{% /notice %}}
-
-{{% landing %}}
