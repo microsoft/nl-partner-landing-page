@@ -10,7 +10,6 @@ draft: false
 alwaysopen: false
 featured: true
 summary: "Fabric"
-shortlink: aka.ms/beluxpartnertech/data/cloud-scale-analytics
 caption: /images/solutionareas/business-decisions.png
 ---
 
